@@ -5,6 +5,15 @@
         <link>https://ivorytan.github.io/zh-cn/categories/</link>
         <description>Recent content in Categories on 似夢初覺</description>
         <generator>Hugo -- gohugo.io</generator>
-        <language>en-us</language><atom:link href="https://ivorytan.github.io/zh-cn/categories/index.xml" rel="self" type="application/rss+xml" />
+        <language>en-us</language>
+        <lastBuildDate>Fri, 22 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://ivorytan.github.io/zh-cn/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Test-CN</title>
+        <link>https://ivorytan.github.io/zh-cn/categories/test-cn/</link>
+        <pubDate>Fri, 22 Apr 2022 00:00:00 +0000</pubDate>
+        
+        <guid>https://ivorytan.github.io/zh-cn/categories/test-cn/</guid>
+        <description>&lt;img src="https://ivorytan.github.io/hutomo-abrianto-l2jk-uxb1BY-unsplash.jpg" alt="Featured image of post Test-CN" /&gt;</description>
+        </item>
+        
     </channel>
 </rss>
