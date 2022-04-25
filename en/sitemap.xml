@@ -41,25 +41,6 @@
                 href="https://ivorytan.github.io/archives/"
                 />
   </url><url>
-    <loc>https://ivorytan.github.io/categories/</loc>
-    <lastmod>2022-04-22T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://ivorytan.github.io/zh-cn/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://ivorytan.github.io/categories/"
-                />
-  </url><url>
-    <loc>https://ivorytan.github.io/tags/diary/</loc>
-    <lastmod>2022-04-22T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ivorytan.github.io/archives/ivory-blog/</loc>
-    <lastmod>2022-04-22T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://ivorytan.github.io/page/</loc>
     <lastmod>2022-04-22T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -73,34 +54,17 @@
                 href="https://ivorytan.github.io/page/"
                 />
   </url><url>
-    <loc>https://ivorytan.github.io/post/</loc>
-    <lastmod>2022-04-22T00:00:00+00:00</lastmod>
+    <loc>https://ivorytan.github.io/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://ivorytan.github.io/zh-cn/post/"
+                href="https://ivorytan.github.io/zh-cn/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://ivorytan.github.io/post/"
+                href="https://ivorytan.github.io/categories/"
                 />
-  </url><url>
-    <loc>https://ivorytan.github.io/tags/</loc>
-    <lastmod>2022-04-22T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://ivorytan.github.io/zh-cn/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://ivorytan.github.io/tags/"
-                />
-  </url><url>
-    <loc>https://ivorytan.github.io/categories/test/</loc>
-    <lastmod>2022-04-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ivorytan.github.io/links/</loc>
     <xhtml:link
@@ -124,6 +88,18 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://ivorytan.github.io/search/"
+                />
+  </url><url>
+    <loc>https://ivorytan.github.io/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://ivorytan.github.io/zh-cn/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ivorytan.github.io/tags/"
                 />
   </url>
 </urlset>

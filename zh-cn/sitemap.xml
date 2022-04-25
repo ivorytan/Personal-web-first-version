@@ -15,19 +15,6 @@
                 href="https://ivorytan.github.io/zh-cn/"
                 />
   </url><url>
-    <loc>https://ivorytan.github.io/zh-cn/categories/</loc>
-    <lastmod>2022-04-22T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://ivorytan.github.io/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://ivorytan.github.io/zh-cn/categories/"
-                />
-  </url><url>
     <loc>https://ivorytan.github.io/zh-cn/page/</loc>
     <lastmod>2022-04-22T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -40,22 +27,6 @@
                 hreflang="zh-cn"
                 href="https://ivorytan.github.io/zh-cn/page/"
                 />
-  </url><url>
-    <loc>https://ivorytan.github.io/zh-cn/post/</loc>
-    <lastmod>2022-04-22T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://ivorytan.github.io/post/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://ivorytan.github.io/zh-cn/post/"
-                />
-  </url><url>
-    <loc>https://ivorytan.github.io/zh-cn/categories/test-cn/</loc>
-    <lastmod>2022-04-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ivorytan.github.io/zh-cn/%E5%85%B3%E4%BA%8E/</loc>
     <lastmod>2022-04-22T00:00:00+00:00</lastmod>
@@ -83,8 +54,17 @@
                 href="https://ivorytan.github.io/zh-cn/archives/"
                 />
   </url><url>
-    <loc>https://ivorytan.github.io/zh-cn/archives/test-chinese/</loc>
-    <lastmod>2022-04-22T00:00:00+00:00</lastmod>
+    <loc>https://ivorytan.github.io/zh-cn/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ivorytan.github.io/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://ivorytan.github.io/zh-cn/categories/"
+                />
   </url><url>
     <loc>https://ivorytan.github.io/zh-cn/tags/</loc>
     <xhtml:link
@@ -121,5 +101,7 @@
                 hreflang="zh-cn"
                 href="https://ivorytan.github.io/zh-cn/search/"
                 />
+  </url><url>
+    <loc>https://ivorytan.github.io/zh-cn/categories/%E5%BF%83%E6%83%85%E8%AE%B0%E5%BD%95/</loc>
   </url>
 </urlset>
