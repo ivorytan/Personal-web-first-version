@@ -78,6 +78,10 @@
                 href="https://ivorytan.github.io/zh-cn/tags/"
                 />
   </url><url>
+    <loc>https://ivorytan.github.io/zh-cn/categories/test/</loc>
+  </url><url>
+    <loc>https://ivorytan.github.io/zh-cn/categories/%E6%B5%8B%E8%AF%95/</loc>
+  </url><url>
     <loc>https://ivorytan.github.io/zh-cn/%E9%93%BE%E6%8E%A5/</loc>
     <xhtml:link
                 rel="alternate"
@@ -101,7 +105,5 @@
                 hreflang="zh-cn"
                 href="https://ivorytan.github.io/zh-cn/search/"
                 />
-  </url><url>
-    <loc>https://ivorytan.github.io/zh-cn/categories/%E5%BF%83%E6%83%85%E8%AE%B0%E5%BD%95/</loc>
   </url>
 </urlset>
