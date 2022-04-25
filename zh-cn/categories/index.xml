@@ -5,21 +5,22 @@
         <link>https://ivorytan.github.io/zh-cn/categories/</link>
         <description>Recent content in Categories on 似夢初覺</description>
         <generator>Hugo -- gohugo.io</generator>
-        <language>en-us</language><atom:link href="https://ivorytan.github.io/zh-cn/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <language>en-us</language>
+        <lastBuildDate>Mon, 25 Apr 2022 22:49:01 +0800</lastBuildDate><atom:link href="https://ivorytan.github.io/zh-cn/categories/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Test</title>
         <link>https://ivorytan.github.io/zh-cn/categories/test/</link>
-        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        <pubDate>Mon, 25 Apr 2022 22:49:01 +0800</pubDate>
         
         <guid>https://ivorytan.github.io/zh-cn/categories/test/</guid>
-        <description>&lt;img src="https://ivorytan.github.io/categories/Test/%E5%B9%B2%E5%B0%B1%E5%AE%8C%E4%BA%8B.jpeg" alt="Featured image of post Test" /&gt;</description>
+        <description>&lt;img src="https://ivorytan.github.io/categories/Test/image.jpg" alt="Featured image of post Test" /&gt;</description>
         </item>
         <item>
         <title>测试</title>
         <link>https://ivorytan.github.io/zh-cn/categories/%E6%B5%8B%E8%AF%95/</link>
-        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        <pubDate>Mon, 25 Apr 2022 22:49:01 +0800</pubDate>
         
         <guid>https://ivorytan.github.io/zh-cn/categories/%E6%B5%8B%E8%AF%95/</guid>
-        <description>&lt;img src="https://ivorytan.github.io/categories/%E6%B5%8B%E8%AF%95/brett-jordan-5gaU7p6WRAw-unsplash.jpg" alt="Featured image of post 测试" /&gt;</description>
+        <description>&lt;img src="https://ivorytan.github.io/categories/%E6%B5%8B%E8%AF%95/office.jpg" alt="Featured image of post 测试" /&gt;</description>
         </item>
         
     </channel>
