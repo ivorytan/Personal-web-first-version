@@ -7,20 +7,20 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
         <lastBuildDate>Mon, 25 Apr 2022 22:49:01 +0800</lastBuildDate><atom:link href="https://ivorytan.github.io/zh-cn/categories/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>Test</title>
-        <link>https://ivorytan.github.io/zh-cn/categories/test/</link>
-        <pubDate>Mon, 25 Apr 2022 22:49:01 +0800</pubDate>
-        
-        <guid>https://ivorytan.github.io/zh-cn/categories/test/</guid>
-        <description>&lt;img src="https://ivorytan.github.io/categories/Test/image.jpg" alt="Featured image of post Test" /&gt;</description>
-        </item>
-        <item>
         <title>测试</title>
         <link>https://ivorytan.github.io/zh-cn/categories/%E6%B5%8B%E8%AF%95/</link>
         <pubDate>Mon, 25 Apr 2022 22:49:01 +0800</pubDate>
         
         <guid>https://ivorytan.github.io/zh-cn/categories/%E6%B5%8B%E8%AF%95/</guid>
         <description>&lt;img src="https://ivorytan.github.io/categories/%E6%B5%8B%E8%AF%95/office.jpg" alt="Featured image of post 测试" /&gt;</description>
+        </item>
+        <item>
+        <title>日记</title>
+        <link>https://ivorytan.github.io/zh-cn/categories/%E6%97%A5%E8%AE%B0/</link>
+        <pubDate>Mon, 25 Apr 2022 22:49:01 +0800</pubDate>
+        
+        <guid>https://ivorytan.github.io/zh-cn/categories/%E6%97%A5%E8%AE%B0/</guid>
+        <description>&lt;img src="https://ivorytan.github.io/categories/%E6%97%A5%E8%AE%B0/image.jpg" alt="Featured image of post 日记" /&gt;</description>
         </item>
         
     </channel>
